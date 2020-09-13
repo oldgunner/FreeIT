@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FF23A23-7C8D-46D1-8A78-A193AB626F01}</ProjectGuid>
+    <ProjectGuid>{CCDA16FD-0D0D-429C-99CA-9C3BFE529DA0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FreeIT</RootNamespace>
-    <AssemblyName>FreeIT</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>Week3_HomeTask</RootNamespace>
+    <AssemblyName>Week3_HomeTask</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
